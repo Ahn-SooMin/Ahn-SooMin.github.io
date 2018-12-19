@@ -6,9 +6,9 @@ title: "스마트센서와 액츄에어터"
 
 ---
 
-#스마트센서와 액츄에이터 개발과정
+스마트센서와 액츄에이터 개발과정
 
-##아이디어 개발
+1. 아이디어 개발
 우리는 분리수거를 보다 편리하게 하기 위하여 레고를 이용하여 프로토타입을 만들기로 했다
 
 ![KakaoTalk_Photo_2018-12-13-10-08-08-4.jpeg](C:\Users\nsmna\Downloads\아카이브\KakaoTalk_Photo_2018-12-13-10-08-08-4.jpeg)
@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/33916183/50233595-1f648e80-03f7-11e9-8
 ![KakaoTalk_Photo_2018-12-13-10-08-08-29.jpeg](C:\Users\nsmna\Downloads\아카이브\KakaoTalk_Photo_2018-12-13-10-08-08-29.jpeg)
 https://user-images.githubusercontent.com/33916183/50233645-36a37c00-03f7-11e9-9c51-4f404775d2ff.jpeg
 
-##코드에 관하여
+2. 코드에 관하여
 
 사실 코드를 짜는 것은 그렇게 어렵지 않았다. 
 
@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/33916183/50233667-43c06b00-03f7-11e9-8
 
 지정된 색이 센서를 지나가면 잠시 벨트를 멈추어 색을 정확히 인지하고 일정시간 뒤에 대상물이 로봇 팔의 위치로 오면 팔이 돌아서 색갈마다 지정된 위치로 대상을 밀어내게 된다.
 
-##자료
+3. 자료
 
 다음에는 사진들을 순서에 상관없이 올려놓았다.
 
